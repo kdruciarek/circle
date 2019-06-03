@@ -13,4 +13,5 @@ Dlatego napisałem drugi skrypt php czytany przez serwer, który wyświetla kó�
 
 Załączam odpowiednią dokumentacje zdjęciową.
 
-![alt text](https://github.com/kdruciarek/circle/blob/master/web_circle.png)
+![web_circle](https://github.com/kdruciarek/circle/blob/master/web_circle.png)
+![console_circle](https://github.com/kdruciarek/circle/blob/master/console_circle.png)
