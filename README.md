@@ -13,4 +13,4 @@ Dlatego napisałem drugi skrypt php czytany przez serwer, który wyświetla kó�
 
 Załączam odpowiednią dokumentacje zdjęciową.
 
-![alt text]()
+![alt text](https://github.com/kdruciarek/circle/blob/master/web_circle.png)
