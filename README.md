@@ -1,9 +1,10 @@
 # Circle
-Praktyka absolwencka w home.pl: Programista PHP
+## Praktyka absolwencka w home.pl: Programista PHP
 
-Zadanie konkursowe - etap 1
+### Zadanie konkursowe - etap 1
 
-Autor: Krzysztof Druciarek
+#### Autor: Krzysztof Druciarek
+<br>
 
 Aby utworzyć kółko w terminalu należy wykonać polecenie "php main.php".
 
@@ -15,3 +16,4 @@ Załączam odpowiednią dokumentacje zdjęciową.
 
 ![web_circle](https://github.com/kdruciarek/circle/blob/master/web_circle.png)
 ![console_circle](https://github.com/kdruciarek/circle/blob/master/console_circle.png)
+
