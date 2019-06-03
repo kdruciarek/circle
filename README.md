@@ -14,6 +14,7 @@ Dlatego napisałem drugi skrypt php (web.php) czytany przez serwer, który wyśw
 
 Załączam odpowiednią dokumentacje zdjęciową.
 
-![web_circle](https://github.com/kdruciarek/circle/blob/master/web_circle.png)
+
 ![console_circle](https://github.com/kdruciarek/circle/blob/master/console_circle.png)
+![web_circle](https://github.com/kdruciarek/circle/blob/master/web_circle.png)
 
