@@ -1,3 +1,7 @@
+<!--
+Autor: Krzysztof Druciarek
+Data: 03/06/2019
+-->
 <!DOCTYPE html>
 <html>
 <head>
@@ -13,8 +17,6 @@
 <body>
 
 <?php
-/*Autor: Krzysztof Druciarek*/
-/*Data: 03/06/2019*/
 
 $r = 20; // promień
 
