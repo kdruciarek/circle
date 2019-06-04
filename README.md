@@ -17,6 +17,8 @@ Załączam odpowiednią dokumentacje zdjęciową.
 Jeżeli miałbym dokładnie zrozumieć treść zadania to okrąg jest zbiorem punktów na krawędzi koła, dlatego moje dwa kolene skrypty tworzą okręgi - w konsoli: 'circle_empty.php' oraz webowy: 'web_circle_empty.php'.
 
 
-![console_circle](https://github.com/kdruciarek/circle/blob/master/console_circle.png)
-![web_circle](https://github.com/kdruciarek/circle/blob/master/web_circle.png)
+![console_circle](https://github.com/kdruciarek/circle/blob/master/photos/console_circle.png)
+![console_circle_empty](https://github.com/kdruciarek/circle/blob/master/photos/console_circle_empty.png)
+![web_circle](https://github.com/kdruciarek/circle/blob/master/photos/web_circle.png)
+![web_circle_empty](https://github.com/kdruciarek/circle/blob/master/photos/web_circle_empty.png)
 
